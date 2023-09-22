@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-History-Exercise/static/css/main.d09b0095.css",
+    "main.js": "/React-History-Exercise/static/js/main.e725043e.js",
+    "index.html": "/React-History-Exercise/index.html",
+    "main.d09b0095.css.map": "/React-History-Exercise/static/css/main.d09b0095.css.map",
+    "main.e725043e.js.map": "/React-History-Exercise/static/js/main.e725043e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d09b0095.css",
+    "static/js/main.e725043e.js"
+  ]
+}
